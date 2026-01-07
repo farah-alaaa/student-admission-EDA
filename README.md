@@ -103,7 +103,3 @@ This project demonstrates **data cleaning, preprocessing, and exploratory data a
 ---
 
 
-
-
-## License
-This project is licensed under the MIT License.
